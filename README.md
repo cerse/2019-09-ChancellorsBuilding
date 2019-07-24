@@ -1,4 +1,4 @@
-# 2019-09-ChancellorsBuilding
+# CERSE Meeting at the Edinbrugh Bioquarter
 
 ## Content
 * [Purpose](#purpose)
@@ -13,8 +13,7 @@ Our primary goal is to invite active and interested RSEs to bootstrap and partic
 
 ##	Venue, Date, Time
 
-Chancellor’s building, Little France
-12-2pm, 8th October
+Seminar room X, Chancellor’s building, Little France, 12-2pm, 8th October.
 
 ## Code of Conduct
 
@@ -29,3 +28,18 @@ We expect all attendees at this meeting to abide by the [Carpentries Code of Con
 Please see the link above for the full Code.
 
 If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (Mario Antonioletti, ADD MORE PEOPLE THAT ARE GOING TO BE THERE). All reports will be reviewed by the organisers and kept confidential.  
+
+## Schedule
+
+This is a provisional timetable.
+
+|Time  | Activity      | 
+|------| ------|
+|12:00 | Welcome  |
+|12:05 | Presentation possibly from the venue volunteer |
+|12:25 | Ice breaking session (opportunity to get to know your fellow attendees) or a group activity|
+|12:45 | Lightning talks or discussion breakout groups |
+|13:00 | An RSE focused presentation |
+|13:30 | Coffee and biscuits |
+|14:00 | Close |
+
