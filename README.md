@@ -27,7 +27,7 @@ We expect all attendees at this meeting to abide by the [Carpentries Code of Con
 
 Please see the link above for the full Code.
 
-If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (Mario Antonioletti, ADD MORE PEOPLE THAT ARE GOING TO BE THERE). All reports will be reviewed by the organisers and kept confidential.  
+If someone violates the Code of Conduct during the event we ask that you report it to one of the organisers (Mario Antonioletti, TODO: ADD MORE PEOPLE THAT ARE GOING TO BE THERE). All reports will be reviewed by the organisers and kept confidential.  
 
 ## Schedule
 
@@ -42,4 +42,6 @@ This is a provisional timetable.
 |13:00 | An RSE focused presentation |
 |13:30 | Coffee and biscuits |
 |14:00 | Close |
+
+TODO: Set up a registration form.
 
