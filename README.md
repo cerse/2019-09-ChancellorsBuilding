@@ -13,7 +13,7 @@ Our primary goal is to invite active and interested RSEs to bootstrap and partic
 
 ##	Venue, Date, Time
 
-Seminar room X, Chancellor’s building, Little France, 12-2pm, 8th October.
+Seminar room 2, Chancellor’s building, Little France, 12-2pm, 8th October.
 
 ## Code of Conduct
 
