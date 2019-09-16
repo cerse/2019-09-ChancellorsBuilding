@@ -1,4 +1,4 @@
-# CERSE Meeting at the Edinburgh Bioquarter
+# CERSE Meeting at the Chancellor's Building, the Edinburgh Bioquarter
 
 ## Content
 * [Purpose](#purpose)
