@@ -1,4 +1,4 @@
-# CERSE Meeting at the Bioquarter
+# CERSE Meeting at the BioQuarter
 
 ## Content
 * [Purpose](#purpose)
