@@ -1,4 +1,4 @@
-# CERSE Meeting at the Chancellor's Building, the Edinburgh Bioquarter
+# CERSE Meeting at the Bioquarter
 
 ## Content
 * [Purpose](#purpose)
@@ -9,7 +9,7 @@
 
 ## Purpose
 
-Our primary goal is to invite active and interested RSEs to bootstrap and participate in a local community of practice.
+The primary goal of the Community of Edinburgh Research Software Engineers (CERSE) is to invite active and interested Research Software Engineers (RSEs) to bootstrap and participate in a local community of practice.
 
 ##	Venue, Date, Time
 
@@ -36,12 +36,12 @@ This is a provisional timetable.
 |Time  | Activity      | 
 |------| ------|
 |12:00 | Welcome - Sean McGeever |
-|12:05 | Presentation possibly from the venue volunteer |
-|12:25 | Ice breaking session (opportunity to get to know your fellow attendees) or a group activity|
+|12:05 | Presentation from a local - TBD |
+|12:25 | Ice breaking session (opportunity to get to know your fellow attendees) |
 |12:45 | Lightning talks or discussion breakout groups |
 |13:00 | What are RSEs and Why are we doing this - Mario Antonioletti |
 |13:30 | Coffee and biscuits |
 |14:00 | Close |
 
-In order to get an idea of numbers for catering please TODO: Set up a registration form.
+In order to get an idea of numbers for catering please [register here](https://cerse.github.io/2019-10-08-ChancellorsBuilding/).
 
