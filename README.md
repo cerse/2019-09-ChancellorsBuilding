@@ -9,7 +9,7 @@
 
 ## Purpose
 
-Our primary goal is to invite active and interested RSEs to bootstrap and participate in a local community of practice
+Our primary goal is to invite active and interested RSEs to bootstrap and participate in a local community of practice.
 
 ##	Venue, Date, Time
 
@@ -43,5 +43,5 @@ This is a provisional timetable.
 |13:30 | Coffee and biscuits |
 |14:00 | Close |
 
-TODO: Set up a registration form.
+In order to get an idea of numbers for catering please TODO: Set up a registration form.
 
