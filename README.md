@@ -1,4 +1,4 @@
-# CERSE Meeting at the Edinbrugh Bioquarter
+# CERSE Meeting at the Edinburgh Bioquarter
 
 ## Content
 * [Purpose](#purpose)
