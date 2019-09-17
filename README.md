@@ -43,5 +43,5 @@ This is a provisional timetable.
 |13:30 | Coffee and biscuits |
 |14:00 | Close |
 
-In order to get an idea of numbers for catering please [register here](https://www.eventbrite.co.uk/e/edinburgh-rse-community-meeting-bioqaurter-tickets-72920181225).
+In order to get an idea of numbers for catering please [register here](https://www.eventbrite.co.uk/e/edinburgh-rse-community-meeting-bioqaurter-tickets-72920181225). If you would like to know about previous CERSE activities go to this [page](https://cerse.github.io/).
 
