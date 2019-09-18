@@ -39,7 +39,7 @@ This is a provisional timetable.
 |12:05 | Presentation from a local - TBD |
 |12:25 | Ice breaking session (opportunity to get to know your fellow attendees) |
 |12:45 | Lightning talks or discussion breakout groups |
-|13:00 | What are RSEs and Why are we doing this - Mario Antonioletti |
+|13:00 | What are RSEs and Why are we doing this - Mario Antonioletti and Michael Wallis |
 |13:30 | Coffee and biscuits |
 |14:00 | Close |
 
