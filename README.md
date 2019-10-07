@@ -36,10 +36,8 @@ This is a provisional timetable.
 |Time  | Activity      | 
 |------| ------|
 |12:00 | Welcome - Sean McGeever |
-|12:05 | Presentation from a local - TBD |
-|12:25 | Ice breaking session (opportunity to get to know your fellow attendees) |
-|12:45 | Lightning talks or discussion breakout groups |
-|13:00 | What are RSEs and Why are we doing this - Mario Antonioletti and Michael Wallis |
+|12:05 | Ice breaking session (opportunity to get to know your fellow attendees) |
+|12:40 | What are RSEs and Why are we doing this - Mario Antonioletti and Michael Wallis with discussion |
 |13:30 | Coffee and biscuits |
 |14:00 | Close |
 
